@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<products>
+    <product>
+        <name>Яблоки</name>
+        <weight>1000</weight>
+        <group>Фрукты</group>
+        <price>150</price>
+        <warehouse>1</warehouse>
+    </product>
+    <product>
+        <name>Яблоки</name>
+        <weight>1000</weight>
+        <group>Фрукты</group>
+        <price>150</price>
+        <warehouse>1</warehouse>
+    </product>
+</products>

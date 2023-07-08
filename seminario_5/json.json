@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "ivan",
+        "surname" : "ivanov",
+        "age" : 37,
+        "hobby" : ["ribalka", "ojota", "futbol"],
+        "status" : true,
+        "hijos" : ["mary", "nikolay"]
+    },
+    {
+        "name" : "olga",
+        "surname" : "frolova",
+        "age" : 21,
+        "hobby" : ["putishestvie", "vishivaniye"],
+        "status" : false,
+        "hijos" : []
+    }
+]
+
